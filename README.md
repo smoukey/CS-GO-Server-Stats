@@ -2,7 +2,7 @@
 
 This **Discord bot** provides real-time server status updates for a CSGO server, displaying information such as the map, the number of players, and player details. It sends periodic updates to a designated Discord channel and provides a "Connect to Server" button for easy access. Created by [@meowtermelon](https://t.me/meowtermelon).
 
-![CSGO Server Stats Bot]((https://github.com/smoukey/CS-GO-Server-Stats/blob/main/image.png))  <!-- Replace with your image URL -->
+![CSGO Server Stats Bot](https://github.com/smoukey/CS-GO-Server-Stats/raw/main/image.png)
 
 ---
 
