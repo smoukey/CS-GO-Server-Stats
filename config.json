@@ -1,0 +1,10 @@
+{
+    "token": "YOUR_DISCORD_BOT_TOKEN",
+    "discord": "YOUR_DISCORD_SERVER_ID",
+    "channel": "YOUR_DISCORD_CHANNEL_ID",
+    "ipabs": "YOUR_CSGO_SERVER_IP",
+    "port": "YOUR_CSGO_SERVER_PORT",
+    "activity": "YOUR_ACTIVITY_MESSAGE",
+    "connectUrl": "YOUR_CUSTOM_URL" // use tinyurl for steamconnect
+  }
+  
